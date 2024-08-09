@@ -1,3 +1,18 @@
+# Startup Instructions
+
+Use Java 17. From the root of the project use the `spellcheck.sh` script which follows the directed pattern for running on the command line. 
+There is a slight modification to the 1st argument where you can use `langtool` instead of a dictionary file and it will use [LanguageTool](https://dev.languagetool.org/java-api.html).
+
+The first time you run the `spellcheck.sh` script it will create a jar then execute it.
+
+The provided `dictionary.txt` file and the `testfile.txt` I used are available to use at the root of the project.
+
+```bash
+"Usage: ./spellcheck.sh (<pathToDictFile>|langtool) <pathToTestFile>"
+```
+
+---
+
 # Make a spell checker!
 
 Write a program that checks spelling. The input to the program is a dictionary file containing a list of valid words and a file containing the text to be checked.
