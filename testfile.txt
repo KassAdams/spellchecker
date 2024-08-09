@@ -1,0 +1,24 @@
+This line has no spelling errors in it.
+nOt cAsE sEnSiTiVe 
+internàtíõnal character$
+
+^empty line
+ line starts with a space
+    line start with a tab
+I forgottospace
+camelCase
+conjunction don't
+ellipsis...
+proper nouns Kass & London as a place. 
+words in [square brackets]. {curly braces}
+(parenthesis) under_score hyphenated-word 
+forward/slash back\slash this|that `tics`
+https://www.google.com
+example@email.com
+A good question?
+LOUD NOISES!
+42
+$3.50
+
+A sentence with a error in the Hitchhiker's Guide tot he Galaxy. This is a line that might otherwise wrap  Kass Adams is my namee! 
+LanguageTool is kewl kewl kewl
